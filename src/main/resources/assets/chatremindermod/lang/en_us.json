@@ -1,0 +1,17 @@
+{
+  "chat_reminder.mod_name": "ChatReminder",
+  "chat_reminder.added_id": "Added special ID: %s",
+  "chat_reminder.updated_id": "Updated special ID: %s",
+  "chat_reminder.added_keyword": "Added keyword: %s",
+  "chat_reminder.updated_keyword": "Updated keyword: %s",
+  "chat_reminder.removed_id": "Removed ID: %s",
+  "chat_reminder.id_not_found": "ID not found: %s",
+  "chat_reminder.removed_keyword": "Removed keyword: %s",
+  "chat_reminder.keyword_not_found": "Keyword not found: %s",
+  "chat_reminder.set_target_id": "Target ID set to: %s",
+  "chat_reminder.set_sound": "Sound set to: %s",
+  "chat_reminder.set_note_count": "Note count set to: %s",
+  "chat_reminder.set_pitch_range": "Pitch range set to: %s ~ %s",
+  "chat_reminder.set_hex_color": "Message color set to: %s",
+  "chat_reminder.invalid_hex": "Invalid HEX color, using default red"
+}

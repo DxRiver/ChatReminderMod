@@ -1,0 +1,17 @@
+{
+  "chat_reminder.mod_name": "ChatReminder",
+  "chat_reminder.added_id": "已添加特关ID: %s",
+  "chat_reminder.updated_id": "已更新特关ID: %s",
+  "chat_reminder.added_keyword": "已添加关键词: %s",
+  "chat_reminder.updated_keyword": "已更新关键词: %s",
+  "chat_reminder.removed_id": "已移除ID: %s",
+  "chat_reminder.id_not_found": "未找到ID: %s",
+  "chat_reminder.removed_keyword": "已移除关键词: %s",
+  "chat_reminder.keyword_not_found": "未找到关键词: %s",
+  "chat_reminder.set_target_id": "目标ID设置为: %s",
+  "chat_reminder.set_sound": "音效设置为: %s",
+  "chat_reminder.set_note_count": "音符数量设置为: %s",
+  "chat_reminder.set_pitch_range": "音调范围设置为: %s ~ %s",
+  "chat_reminder.set_hex_color": "消息颜色设置为: %s",
+  "chat_reminder.invalid_hex": "无效HEX颜色，使用默认红色"
+}

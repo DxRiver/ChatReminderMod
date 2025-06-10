@@ -1,0 +1,20 @@
+{
+  "qq1": {
+    "subtitles": "sounds.chatremindermod.qq1",
+    "sounds": [
+      "chatremindermod:qq1"
+    ]
+  },
+  "wx1": {
+    "subtitles": "sounds.chatremindermod.wx1",
+    "sounds": [
+      "chatremindermod:wx1"
+    ]
+  },
+  "wx2": {
+  "subtitles": "sounds.chatremindermod.wx2",
+  "sounds": [
+    "chatremindermod:wx2"
+  ]
+}
+}
